@@ -27,6 +27,7 @@ brainly statistics and probability
 
 # setup
 Clone this  repo
+pip install fbchat
 Provide cookies to config
 Run main.py 
 
