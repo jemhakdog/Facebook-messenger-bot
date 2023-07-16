@@ -27,11 +27,14 @@ brainly statistics and probability
 
 # setup
 Clone this  repo
+
 pip install fbchat
+
 Provide cookies to config
+
 Run main.py 
 
-That's it your good to go. 
+That's it you are good to go. 
 
 Note:if you are having an error  while  logging in you can wait  for 3-10 seconds  and re run the program 
 
