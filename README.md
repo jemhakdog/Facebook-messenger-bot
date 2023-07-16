@@ -1,4 +1,4 @@
-#a simple implementation of Facebook-messenger-bot 
+# a simple implementation of Facebook-messenger-bot 
 
 this project was inspired with https://m.youtube.com/watch?v=SyJNGsasXwo&pp=ygUTTHVjYXMgbWVzc2VuZ2VyIGJvdA%3D%3D 
 
@@ -24,7 +24,7 @@ Lyrics mundo
 Note:brainly is not stable  and philippines  base
 brainly statistics and probability 
 
-#setup
+# setup
 Clone this  repo
 Provide cookies to config
 Run main.py 
